@@ -1,0 +1,24 @@
+.part1{
+    /* background-image:url("https://assets.materialup.com/uploads/f0f5ab02-4e10-4601-801c-bb4aa91c89f7/preview.jpg"); */
+    background-color: white;
+    border: 2px solid rgb(168, 162, 162);
+    border-bottom: none;
+}
+
+.part3{
+    background-color:rgb(221, 240, 255);
+
+
+
+}
+.part4{
+    background-color: #07295D;
+}
+
+.box-shadow{
+    box-shadow: 0.2px 0.2px 0.1px 0.1px #888888;
+}
+
+.gap {
+    gap: 2px;
+}
